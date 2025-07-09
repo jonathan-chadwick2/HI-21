@@ -1,3 +1,10 @@
 {
-  "files": {}
+  "files": {
+    "nhsd-primary-care-domain-refsets-autism_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/autism_cod/20241205",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/autism_cod/20241205/",
+      "downloaded_at": "2025-07-09 13:52:51.119323Z",
+      "sha": "15d2a108c681e9006dd85762435fc632725ea9ef"
+    }
+  }
 }
